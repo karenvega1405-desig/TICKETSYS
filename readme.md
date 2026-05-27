@@ -13,3 +13,15 @@ Desarrollar un CMR para la  empresa X, con la metodologia Scrum y las herramient
 - FRAMEWORKS:
 - IDE:
 - CVS:
+
+
+## ARQUITECTURA
+La arquitectura del proyecto sera 
+
+##METODOLOGIA
+La metodologia para el desarrollo de la aplicfacion sera SCRUM, en 4 sprint
+
+- [] Sprint 1
+- [] Sprint 2
+- [] Sprint 3
+- [] Sprint 4
